@@ -1,0 +1,44 @@
+/* line 1, H:/work/Creation labs/site/scss/admissions.scss */
+nav {
+  height: 10vh; }
+  /* line 6, H:/work/Creation labs/site/scss/admissions.scss */
+  nav .clabs-logo {
+    padding: 10px 45px 15px 45px; }
+
+/* line 11, H:/work/Creation labs/site/scss/admissions.scss */
+.navbar-default {
+  background-color: #fff;
+  border: 0 transparent; }
+
+/* line 16, H:/work/Creation labs/site/scss/admissions.scss */
+.title-about {
+  font-size: 3em;
+  color: #495259;
+  padding-top: 60px; }
+
+/* line 24, H:/work/Creation labs/site/scss/admissions.scss */
+#about-page .about-list li {
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 3px 20px 3px 20px;
+  transform: all 0.7s ease-in;
+  background-color: #ff6905;
+  color: #fff; }
+  /* line 34, H:/work/Creation labs/site/scss/admissions.scss */
+  #about-page .about-list li:hover {
+    background-color: #ff7418;
+    color: #fff; }
+
+/* line 41, H:/work/Creation labs/site/scss/admissions.scss */
+#about-page .slide {
+  height: 70vh;
+  padding-top: 30px; }
+
+/* line 47, H:/work/Creation labs/site/scss/admissions.scss */
+.display-none {
+  display: none; }
+
+/*# sourceMappingURL=admissions.css.map */

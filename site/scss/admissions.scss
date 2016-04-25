@@ -1,0 +1,49 @@
+nav{
+    height: 10vh;
+    
+
+    
+    .clabs-logo{
+    padding: 10px 45px 15px 45px;
+    }
+}
+
+.navbar-default{
+    background-color: #fff;
+    border: 0 transparent;
+}
+
+.title-about{
+    font-size: 3em;
+    color:  #495259;
+    padding-top: 60px;
+}
+
+#about-page{    
+    .about-list{
+        li{
+        text-decoration: none;
+        list-style: none;
+        display: inline-block;
+        cursor: pointer;
+        font-size: 1.2em;
+        padding: 3px 20px 3px 20px;
+        transform: all 0.7s ease-in;
+        background-color: #ff6905;
+        color: #fff; 
+            &:hover{
+            background-color: #ff7418;
+            color: #fff;
+            }
+        }
+    }
+    
+    .slide{
+        height: 70vh;
+        padding-top: 30px;
+    }
+}
+
+.display-none{
+    display: none;
+}
